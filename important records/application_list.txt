@@ -1,0 +1,7 @@
+skype-C:\\Program Files\\Microsoft\\Skype for Desktop\\-skype.exe
+ms excel-C:\\Program Files\\Microsoft Office\\Office12\\-EXCEL.EXE
+ms access-C:\\Program Files\\Microsoft Office\\Office12\\-MSACCESS.EXE
+ms outlook-C:\\Program Files\\Microsoft Office\\Office12\\-OUTLOOK.EXE
+ms powerpoint-C:\\Program Files\\Microsoft Office\\Office12\\-POWERPNT.EXE
+ms word-C:\\Program Files\\Microsoft Office\\Office12\\-WINWORD.EXE
+

@@ -1,0 +1,5 @@
+Une blockchain, ou chaîne de blocs, est une liste croissante d'enregistrements, appelés blocs, qui sont liés et sécurisés à l'aide de la cryptographie.
+Chaque bloc contient généralement un hachage cryptographique du bloc précédent, un horodatage et des données de transaction.
+De par sa conception, une blockchain est intrinsèquement résistante à la modification des données.
+Il s'agit d'un "grand livre ouvert et distribué qui peut enregistrer les transactions entre deux parties de manière efficace, vérifiable et permanente".
+Pour être utilisée comme grand livre distribué, une blockchain est généralement gérée par un réseau pair-à-pair qui adhère collectivement à un protocole de communication entre nœuds et de validation des nouveaux blocs.
